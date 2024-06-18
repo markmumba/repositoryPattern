@@ -18,15 +18,15 @@ namespace repositoryPattern.Controllers
 
         // GET: api/[controller]
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<TEntity>>> Get()
+        public async Task<ActionResult<IEnumerable<TEntity>>> GetAllData()
         {
-            return await repository.GetAll();
+            return await repository.GetAllData();
         }
         // GET: api/[controller]/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<TEntity>> Get(int id)
+        public async Task<ActionResult<TEntity>> GetDataById(int id)
         {
-            var movie = await repository.Get(id);
+            var movie = await repository.GetDataById(id);
             if (movie == null)
             {
                 return NotFound();
@@ -36,29 +36,29 @@ namespace repositoryPattern.Controllers
 
         // PUT: api/[controller]/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, TEntity movie)
+        public async Task<IActionResult> UpdateDataById(int id, TEntity movie)
         {
             if (id != movie.Id)
             {
                 return BadRequest();
             }
-            await repository.Update(movie);
+            await repository.UpdateDataById(movie);
             return NoContent();
         }
 
         // POST: api/[controller]
         [HttpPost]
-        public async Task<ActionResult<TEntity>> Post(TEntity movie)
+        public async Task<ActionResult<TEntity>> AddNewData(TEntity movie)
         {
-            await repository.Add(movie);
+            await repository.AddNewData(movie);
             return CreatedAtAction("Get", new { id = movie.Id }, movie);
         }
 
         // DELETE: api/[controller]/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<TEntity>> Delete(int id)
+        public async Task<ActionResult<TEntity>> DeleteData(int id)
         {
-            var movie = await repository.Delete(id);
+            var movie = await repository.DeleteData(id);
             if (movie == null)
             {
                 return NotFound();

@@ -13,14 +13,14 @@ namespace repositoryPattern.Data.EFCore
             public EfCoreRepository (TContext context){
                 this.context = context;
             }
-            public async Task<TEntity> Add(TEntity entity)
+            public async Task<TEntity> AddNewData(TEntity entity)
             {
                 context.Set<TEntity>().Add(entity);
                 await context.SaveChangesAsync();
                 return entity;
             }
 
-            public async Task<TEntity> Delete(int id)
+            public async Task<TEntity> DeleteData(int id)
             {
                 var entity = await context.Set<TEntity>().FindAsync(id);
                 if (entity == null)
@@ -34,17 +34,17 @@ namespace repositoryPattern.Data.EFCore
                 return entity;
             }
 
-            public async Task<TEntity> Get(int id)
+            public async Task<TEntity> GetDataById(int id)
             {
                 return await context.Set<TEntity>().FindAsync(id);
             }
 
-            public async Task<List<TEntity>> GetAll()
+            public async Task<List<TEntity>> GetAllData()
             {
                 return await context.Set<TEntity>().ToListAsync();
             }
 
-            public async Task<TEntity> Update(TEntity entity)
+            public async Task<TEntity> UpdateDataById(TEntity entity)
             {
                 context.Entry(entity).State = EntityState.Modified;
                 await context.SaveChangesAsync();
