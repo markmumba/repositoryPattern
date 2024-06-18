@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\data\\efcore\\efcoremovierepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\data\\efcore\\efcoremovierepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\data\\efcore\\repositorypatterncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\data\\efcore\\repositorypatterncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\data\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\data\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\data\\efcore\\efcorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\data\\efcore\\efcorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|c:\\users\\markian\\source\\repos\\repositorypattern\\repositorypattern\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC7971-CFB5-45DD-810E-896DCB117A18}|repositoryPattern\\repositoryPattern.csproj|solutionrelative:repositorypattern\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCoreMovieRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\EfCoreMovieRepository .cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Data\\EFCore\\EfCoreMovieRepository .cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\EfCoreMovieRepository .cs",
+              "RelativeToolTip": "repositoryPattern\\Data\\EFCore\\EfCoreMovieRepository .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:31:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfCoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\EfCoreRepository.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Data\\EFCore\\EfCoreRepository.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\EfCoreRepository.cs",
+              "RelativeToolTip": "repositoryPattern\\Data\\EFCore\\EfCoreRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:18:31.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\IRepository.cs",
+              "RelativeToolTip": "repositoryPattern\\Data\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:01:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repositoryPatternContext.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\repositoryPatternContext.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Data\\EFCore\\repositoryPatternContext.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\EFCore\\repositoryPatternContext.cs",
+              "RelativeToolTip": "repositoryPattern\\Data\\EFCore\\repositoryPatternContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:54:34.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "repositoryPattern\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:53:49.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Models\\Movie.cs",
+              "RelativeToolTip": "repositoryPattern\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:39:33.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\IEntity.cs",
+              "RelativeDocumentMoniker": "repositoryPattern\\Data\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Markian\\source\\repos\\repositoryPattern\\repositoryPattern\\Data\\IEntity.cs",
+              "RelativeToolTip": "repositoryPattern\\Data\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:37:39.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
